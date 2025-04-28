@@ -1,3 +1,4 @@
+https://youtu.be/xwMGdXHHO2U?si=hHYgRla8CfUdMSv8
 [![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
 
 ## Build your own &lt;insert-technology-here&gt;
